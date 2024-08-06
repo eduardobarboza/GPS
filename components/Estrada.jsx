@@ -1,7 +1,7 @@
 import React from 'react';
 import {Text, View} from 'react-native';
 
-const YourApp = () => {
+const Estrada = () => {
   return (
     <View
       style={{
@@ -9,9 +9,9 @@ const YourApp = () => {
         justifyContent: 'center',
         alignItems: 'center',
       }}>
-      <Text>Try editing me! 🎉</Text>
+      <Text>Olá Mundo</Text>
     </View>
   );
 };
 
-export default YourApp;
+export default Estrada;
