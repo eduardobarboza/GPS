@@ -9,7 +9,7 @@ const Home = () => {
         justifyContent: 'center',
         alignItems: 'center',
       }}>
-      <Text>Hola Mundito</Text>
+      <Text>Hello World</Text>
     </View>
   );
 };
